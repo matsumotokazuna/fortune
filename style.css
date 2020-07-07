@@ -1,0 +1,21 @@
+/* リセットCSS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "ヒラギノ明朝 Pro W3";
+}
+
+.outside{
+    margin: 20px;
+    border: 1px solid #000000;
+    padding: 50px;
+}
+
+.result{
+    margin-bottom: 30px;
+}
+
+.box{
+    margin-bottom: 20px;
+}
